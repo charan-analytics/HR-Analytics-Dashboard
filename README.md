@@ -7,6 +7,7 @@ Power BI HR Analytics Dashboard analyzing employee attrition, workforce metrics,
 
 ## Tools used
 -Power Bi
+
 -Excel
 
 ## Key Kpi's
