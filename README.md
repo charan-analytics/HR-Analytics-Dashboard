@@ -12,16 +12,23 @@ Power BI HR Analytics Dashboard analyzing employee attrition, workforce metrics,
 
 ## Key Kpi's
 -Total employees
+
 -Attrition Rate
+
 -Average salary
+
 -Average age
+
 -Average Years
 
 ## Dashboard features
 -Interactive slicers
+
 -Attrition analysis
+
 -kpis for quick insights
 
 ## Insights
 -Highest attrition observed in laboratory technician
+
 -Attrition is higher in between younger age groups.
